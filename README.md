@@ -1,4 +1,4 @@
 Hello-Android
 =============
 
-æµ‹è¯•Androidå¼€å‘ç¯å¢ƒ
+²âÊÔAndroid¿ª·¢»·¾³
